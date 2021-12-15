@@ -15,7 +15,7 @@ Na seguinte figura podemos observar o fluxograma do menu principal, composto por
 Para as quatro opçoes apresentadas foram desenvolvidos icons para facilitar a navegação.
 
 | Parcelas | Parâmetros Fisiológicos | Rega | Clima |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 |![ParIcon](https://i.imgur.com/IQ77J0X.png) | ![ParFisioIcon](https://i.imgur.com/juFDEdR.png) | ![RegaIcon](https://i.imgur.com/ciiqsqO.png) | ![ClimaIcon](https://i.imgur.com/bgtwUUu.png) |
 
 Na opção 'Parcela' o utilizador seleciona o nome da parcela (de entre as parcelas existentes da base de dados) e é disponibilizada toda a informação sobre essa parcela e é mostrado o mapa dessa parcela (utilizando, por exemplo, o [Mango](https://mangomap.com/)). O admnistrador poderá editar esta informação. Também é possível alterar a parcela nas outras opções permitindo, assim, escolher a parecela sem ter de voltar a esta opção. No entanto, a edição dos dados da parcela só é possível nesta opção.
